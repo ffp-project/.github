@@ -15,7 +15,7 @@ FFP (Far From Perfect) is driven by a commitment to continuous growth and improv
 
 ## Repositories
 
-Our projects will be made public on December 1st, 2024. Stay tuned as we reveal multiple repositories showcasing the FFP philosophy in action!
+Our initial projects will be made public on December 1st, 2024. Stay tuned as we reveal multiple repositories showcasing the FFP philosophy in action!
 
 ## Get Involved
 
