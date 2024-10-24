@@ -1,12 +1,12 @@
-# FFP Organization
+# FFP-Project Organization
 
 > Far From Perfect - Because perfection is overrated.
 
-Welcome to the home of the FFP project! Our organization is dedicated to embracing the beauty of imperfection in software development.
+Welcome to the home of FFP - Project! Our organization is dedicated to embracing the beauty of imperfection in software development.
 
-## About FFP
+## About FFP-Project
 
-FFP (Far From Perfect) is built on the philosophy that continuous improvement is more valuable than seeking unattainable perfection. We believe in learning from mistakes and growing through iteration.
+FFP-Project is built on the philosophy that continuous improvement is more valuable than seeking unattainable perfection. We believe in learning from mistakes and growing through iteration.
 
 ## Repositories
 
