@@ -1,4 +1,4 @@
-# FFP Organization
+# FFP-Project Organization
 
 > Far From Perfect - Because perfection is overrated.
 
@@ -6,7 +6,7 @@ Welcome to the home of the FFP project! Our organization is dedicated to embraci
 
 ## About FFP
 
-FFP (Far From Perfect) is driven by a commitment to continuous growth and improvement. Our core principles are:
+FFP-Project (Far From Perfect) is driven by a commitment to continuous growth and improvement. Our core principles are:
 
 - **Knowledge First**: We believe in constantly expanding our understanding through collaboration, experimentation, and open dialogue.
 - **Better Software Every Day**: Our focus is on creating and iteratively improving software solutions that solve real problems.
